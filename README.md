@@ -12,8 +12,7 @@
 
 ### 🌐 Projects  
 - 📖 [Daily English Quiz](#) — interactive learning site for kids  
-- 🕹️ [Scratch Quiz Project](#) — vocabulary learning game  
-- 🏙️ [Concordia World-building](#) — creative fictional universe  
+- 🕹️ [Scratch Quiz Project](#) — vocabulary learning game
 
 ### 📫 Reach Me  
 - GitHub: [@McDingleBob](https://github.com/McDingleBob)  
