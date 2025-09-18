@@ -12,7 +12,7 @@
 
 ### 🌐 Projects  
 - 📖 [Daily English Quiz](#) — interactive learning site for kids  
-- 🕹️ [Scratch Quiz Project](#) — vocabulary learning game
+- 🖐️ [Finger Counter](https://github.com/McDingleBob/finger-counter-/tree/main) — count your finger
 
 ### 📫 Reach Me  
 - GitHub: [@McDingleBob](https://github.com/McDingleBob)  
